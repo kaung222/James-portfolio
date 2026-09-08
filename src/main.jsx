@@ -237,9 +237,12 @@ function App() {
                 <br />a <span>solid architecture.</span>
               </h1>
               <p className="hero-description">
-                I build high-performance APIs and video streaming systems. From
-                the first line of code to the infrastructure that keeps it
-                running.
+                I believe great API design can save businesses millions in
+                costs—and users millions of hours.
+              </p>
+              <p className="hero-description">
+                That’s the thinking behind every API, streaming system, and cloud
+                platform I build.
               </p>
               <div className="hero-actions">
                 <a className="button primary" href="#work">
